@@ -1,5 +1,3 @@
-
-package exerciciosWhile;
 import java.util.Scanner;
 
 public class idade {
